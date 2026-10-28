@@ -11,9 +11,10 @@ print("Valgene du tar gir poeng, og totalsummen bestemmer slutreslutatet.")
 print("Så pass på at du velger riktig!")
 print()
 
-gokjente_start_svar = ["start", "Start", "START"]
+
 
 start_input = input("vennligst skriv ordet `start` for å begynne: ")
+gokjente_start_svar = ["start", "Start", "START"]
 
 # Beslutningspunkt 1: Konflikten mellom Silje og Elias 
 
