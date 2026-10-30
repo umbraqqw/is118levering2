@@ -68,20 +68,14 @@ if valg2 == "fellesmote" and valg3 == "sosialt":
     else:
         print("Plenumsmøtet var tøft, men åpenheten ble til slutt en styrke.")
     print("Prototypen leveres i tide, og alle står bak den.")
-
 elif valg2 == "avvente" and (valg3 == "fremdrift" or valg1 == "plenum"):
     # Utfall 3: for mange dårlige valg
     print("UTFALL 3: Teamet mister samholdet, og prosjektet blir forsinket.")
     print("Konfliktene ble aldri løst, og prototypen leveres for sent.")
-
 else:
     # Utfall 2: blanding av gode og dårlige valg
     print("UTFALL 2: Konfliktene løses delvis, men relasjonene er sårbare.")
     print("Prototypen blir ferdig, men Erling må jobbe videre med tilliten.")
-
 # Oppsummering av valgene Erling tok (bruker variablene vi lagret)
 print("\nDine valg: " + valg1 + " -> " + valg2 + " -> " + valg3)
-
-
-   print("\nDine valg: " + valg1 + " -> " + valg2 + " -> " + valg3)
-   
+   print("\nDine valg: " + valg1 + " -> " + valg2 + " -> " + valg3
