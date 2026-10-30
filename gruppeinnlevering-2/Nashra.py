@@ -81,3 +81,11 @@ else:
 
 # Oppsummering av valgene Erling tok (bruker variablene vi lagret)
 print("\nDine valg: " + valg1 + " -> " + valg2 + " -> " + valg3)
+git add .
+git commit -m "Ferdig med min del av gruppeinnlevering 2"
+git pull
+git push
+git add .
+git commit -m "Ferdig med min del av gruppeinnlevering 2"
+git pull
+git push
