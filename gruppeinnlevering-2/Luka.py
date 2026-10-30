@@ -2,8 +2,6 @@
 
 spille_igjen = "ja"
 while spille_igjen == "ja" or spille_igjen == "Ja" or spille_igjen == "JA":
-        
-
     # her kjører hele spillet og poeng nullstilles automatisk til 0 hver runde
 
     print()
