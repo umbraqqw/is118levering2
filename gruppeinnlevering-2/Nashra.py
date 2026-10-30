@@ -1,4 +1,4 @@
-( print("hallo") 
+
  
 # ---------------- INTRODUKSJON ----------------
 print("=== ERLING OG STORMEN ===")
@@ -89,3 +89,5 @@ git add .
 git commit -m "Ferdig med min del av gruppeinnlevering 2"
 git pull
 git push
+   print("\nDine valg: " + valg1 + " -> " + valg2 + " -> " + valg3)
+   
