@@ -1,4 +1,3 @@
-
  
 # ---------------- INTRODUKSJON ----------------
 print("=== ERLING OG STORMEN ===")
@@ -79,3 +78,4 @@ else:
 # Oppsummering av valgene Erling tok (bruker variablene vi lagret)
 print("\nDine valg: " + valg1 + " -> " + valg2 + " -> " + valg3)
    print("\nDine valg: " + valg1 + " -> " + valg2 + " -> " + valg3
+       print("Prototypen blir ferdig, men Erling må jobbe videre med tilliten.")
